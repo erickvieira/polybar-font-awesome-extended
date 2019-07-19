@@ -1,0 +1,1 @@
+# polybar-font-awesome-extended
